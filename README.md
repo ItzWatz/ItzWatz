@@ -1,6 +1,4 @@
 - I’m ItzWatz 
-- I’m interested in growing and improving my website
-- I’m currently learning html & css
 - I’m looking to learn more
 - Reach me: ninjamaster360@icloud.com
 
